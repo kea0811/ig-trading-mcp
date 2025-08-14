@@ -1,0 +1,50 @@
+# Development files
+.env
+.env.local
+*.log
+.DS_Store
+
+# Test files
+scripts/test-*
+examples/
+tests/
+*.test.js
+
+# Documentation files
+ARCHITECTURE.md
+MCP-GUIDE.md
+instructions.gif
+claude-desktop-config.example.json
+
+# Git files
+.git/
+.gitignore
+.mailmap
+
+# IDE files
+.vscode/
+.cursor/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.tgz
+
+# Security files
+tokens.json
+credentials.json
+*.key
+*.pem
+*.cert
+
+# CI/CD
+.github/
+.travis.yml
+.circleci/
+
+# Misc
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

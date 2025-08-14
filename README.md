@@ -1,8 +1,8 @@
 # ig-trading-mcp
 
-[![npm version](https://badge.fury.io/js/ig-trading-mcp.svg)](https://www.npmjs.com/package/ig-trading-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/node/v/ig-trading-mcp.svg)](https://nodejs.org)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
+[![GitHub](https://img.shields.io/badge/GitHub-kea0811%2Fig--trading--mcp-blue)](https://github.com/kea0811/ig-trading-mcp)
 
 A modern Node.js client for IG Trading API with built-in MCP (Model Context Protocol) server for AI integration. Trade forex, indices, commodities and more through IG's REST API, now with AI assistant support.
 
