@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "ig-trading": {
+      "command": "node",
+      "args": ["/path/to/node-ig-api/src/services/mcp-service.js"],
+      "cwd": "/path/to/node-ig-api",
+      "env": {
+        "IG_API_KEY": "your_api_key_here",
+        "IG_IDENTIFIER": "your_username_here",
+        "IG_PASSWORD": "your_password_here",
+        "IG_DEMO": "true"
+      }
+    }
+  }
+}
