@@ -14,7 +14,6 @@ A modern Node.js client for IG Trading API with built-in MCP (Model Context Prot
 - 📊 **Complete IG REST API** - Trading, positions, orders, market data
 - 🔐 **Enterprise Security** - RSA encryption, rate limiting, audit logging
 - 🚀 **Modern JavaScript** - ES modules, async/await, full TypeScript support
-- 📈 **Real-time Streaming** - Live prices via Lightstreamer
 - 🛡️ **Battle-tested** - Production-ready with comprehensive error handling
 
 ## 🚀 Quick Start
@@ -218,7 +217,6 @@ ig-trading-mcp/
 │   │   └── encryption.cjs  # RSA encryption
 │   ├── services/           # Business logic
 │   │   ├── ig-service.js   # Main IG API
-│   │   ├── streaming-service.js
 │   │   └── mcp-service.js  # MCP server
 │   ├── security/           # Security layer
 │   └── indicators/         # Trading indicators
