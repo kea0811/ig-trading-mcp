@@ -1,5 +1,7 @@
 # ig-trading-mcp
 
+[![npm version](https://img.shields.io/npm/v/ig-trading-mcp.svg)](https://www.npmjs.com/package/ig-trading-mcp)
+[![Downloads](https://img.shields.io/npm/dm/ig-trading-mcp.svg)](https://www.npmjs.com/package/ig-trading-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 [![GitHub](https://img.shields.io/badge/GitHub-kea0811%2Fig--trading--mcp-blue)](https://github.com/kea0811/ig-trading-mcp)
