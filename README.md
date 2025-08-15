@@ -8,6 +8,10 @@
 
 A modern Node.js client for IG Trading API with built-in MCP (Model Context Protocol) server for AI integration. Trade forex, indices, commodities and more through IG's REST API, now with AI assistant support.
 
+<a href="https://glama.ai/mcp/servers/@kea0811/ig-trading-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kea0811/ig-trading-mcp/badge" alt="IG Trading MCP server" />
+</a>
+
 ## ✨ Features
 
 - 🤖 **MCP Server** - 21 tools for AI assistants (Claude, Cursor, etc.)
